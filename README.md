@@ -2,7 +2,7 @@
 Plex notification box for Raspberry Pi using a blinkstick.
 
 An options.js file is required. Located at the root of the project.
-
+<pre>
 Example:
 const options = {
     hostname:"PLEXHOSTNAME or IP",
@@ -18,3 +18,4 @@ const options = {
     }
 }
 module.exports = options;
+</pre>
