@@ -2,7 +2,7 @@
 Plex notification box for Raspberry Pi using a blinkstick.
 
 An options.js file is required. Located at the root of the project.
-<hr/ >
+<br />
 Example:
 <pre>
 
